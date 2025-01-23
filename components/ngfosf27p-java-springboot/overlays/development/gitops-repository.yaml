@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: ngfosf27p-java-springboot-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/ngfosf27p-java-springboot-gitops
